@@ -1,6 +1,6 @@
 # ImpactJS HiRes Plugin
 
-ImpactJS plugin to load retina scaled assets on-demand.
+ImpactJS plugin to load HiDPI media assets for devices with a Device Pixel Ratio of more than 1.
 
 
 ## Quick Start
