@@ -23,6 +23,6 @@ var width = window.innerWidth;
 var height = window.innerHeight;
 ig.hiResScale = window.devicePixelRatio || 1;
 
-ig.main( '#canvas', MyTitle, 60, width, height, ig.hiResScale, ig.ImpactSplashLoader );
+ig.main( '#canvas', MyGame, 60, width, height, ig.hiResScale );
 ```
 
